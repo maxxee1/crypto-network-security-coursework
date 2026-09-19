@@ -1,0 +1,17 @@
+curl --url 'http://localhost:4280/vulnerabilities/brute/?username=m.adonnis&password=bbcbfghfgngfnfgng&Login=Login' \
+-H 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8' \
+-H 'Accept-Language: es-419,es;q=0.7' \
+-H 'Connection: keep-alive' \
+-b 'theme=light; PHPSESSID=4f83711be3c584a9d54a9b289cfd760c; security=low' \
+-H 'Referer: http://localhost:4280/vulnerabilities/brute/?username=chequeoCURL&password=inthenetwork&Login=Login' \
+-H 'Sec-Fetch-Dest: document' \
+-H 'Sec-Fetch-Mode: navigate' \
+-H 'Sec-Fetch-Site: same-origin' \
+-H 'Sec-Fetch-User: ?1' \
+-H 'Sec-GPC: 1' \
+-H 'Upgrade-Insecure-Requests: 1' \
+-H 'User-Agent: Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Mobile
+Safari/537.36' \
+-H 'sec-ch-ua: "Brave";v="153", "Not_A Brand";v="8", "Chromium";v="153"' \
+-H 'sec-ch-ua-mobile: ?1' \
+-H 'sec-ch-ua-platform: "Android"'
